@@ -104,6 +104,7 @@ class ViewController: UIViewController {
             searchBar.text = ""
             loadPhotos(page: currentPage)
         }
+        //s
     }
     
     // MARK: - UI Components
